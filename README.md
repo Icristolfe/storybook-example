@@ -1,7 +1,7 @@
 # Youtube
 
 <h1>🔰Storybook example app. (ReactJS & Vite & Storybook):</h1>
-<p>Aplicação react com um componente de botão criado com storybook permitindo ao usuário obter exemplo do storybook na sua forma mais simples e evoluir o projeto adicionando outros componentes</p>
+<p>Aplicação react com um componentes de botões criados com storybook e renderizados na aplicação react permitindo ao usuário obter exemplo do storybook na sua forma mais simples e evoluir o projeto adicionando outros componentes</p>
 
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/196553482@N03/52570324777/in/dateposted-public/" title="Captura de tela de 2022-12-18 10-32-08"><img src="https://live.staticflickr.com/65535/52570324777_f6b5b54892_o.png" width="1366" height="768" alt="Captura de tela de 2022-12-18 10-32-08"></a>
 
